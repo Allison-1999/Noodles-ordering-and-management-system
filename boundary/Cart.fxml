@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="CartPnl" prefHeight="576.0" prefWidth="793.0" stylesheets="@../resources/Pane.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="boundary.CartController">
+   <children>
+      <Label layoutX="67.0" layoutY="37.0" text="Ramen Cart">
+         <font>
+            <Font size="26.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnPay" layoutX="541.0" layoutY="492.0" mnemonicParsing="false" prefHeight="48.0" prefWidth="156.0" text="Pay">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Button>
+      <ScrollPane fx:id="cartRamenPnl" layoutX="108.0" layoutY="89.0" prefHeight="320.0" prefWidth="600.0" stylesheets="@../resources/Pane.css">
+         <content>
+            <VBox fx:id="ramenItems" prefHeight="318.0" prefWidth="598.0" />
+         </content>
+      </ScrollPane>
+      <Label id="AmonutLabel" fx:id="AmonutLabel" layoutX="309.0" layoutY="499.0" text="Amount：9.99">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+      <HBox layoutX="301.0" layoutY="435.0" prefHeight="41.0" prefWidth="396.0">
+         <children>
+            <RadioButton id="takeAway" mnemonicParsing="false" prefHeight="32.0" prefWidth="222.0" text="Take away">
+               <font>
+                  <Font size="22.0" />
+               </font></RadioButton>
+            <RadioButton id="eatIn" mnemonicParsing="false" prefHeight="32.0" prefWidth="157.0" text="Eat in">
+               <font>
+                  <Font size="22.0" />
+               </font></RadioButton>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>
