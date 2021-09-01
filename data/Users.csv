@@ -1,0 +1,7 @@
+UserID,FirstName,Surname,Passcode,Phone,Email,Stamps,UsedStamps,TotalOrders,Online
+10000001,Z,Wcong,Zwc2074,+8618812341234,zwc@bupt.edu.cn,0,10,11,0
+10000002,Zhu,Wcong,Zwc12345,+4401234512345,,1,0,1,0
+10000003,Z,Weicong,Zwc111,+8613512341234,,1,0,1,0
+10000004,Zhu,Weicon,Zhu123,+4401212341234,,1,0,1,0
+10000005,Zhu,Weic,Lk1234,+4408551234123,adhkh@aoihf.com,2,0,2,0
+10000006,Vincent,Luo,1234Asd,+8617838274837,sdf@sdf.com,2,0,2,0

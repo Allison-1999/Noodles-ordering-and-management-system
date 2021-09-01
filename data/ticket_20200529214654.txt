@@ -1,0 +1,22 @@
+Werlcome to Totoro Ramen!
+
+User ID: 10000001
+User Name: Z	Wcong
+Date: 2020-05-29 21:47:04
+Order ID: 20200529214654
+Order Amount: 20.0
+Code: 1
+Eat in
+=================================
+---------------  0  --------------
+Soup: Tonkosu
+Noodles: Firm
+Onion Level: : 0
+Bamboo Shoots: 0
+Nori : false  Extra: 0
+Chashu: true  Extra: 0
+Boiled Egg: false   Extra: 0
+Spiciness: 5
+Number : 1
+---------------------------------
+

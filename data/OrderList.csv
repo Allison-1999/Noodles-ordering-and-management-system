@@ -1,0 +1,26 @@
+OrderId,Code,Amount,Method,GenerateTime,Soup,Noodles,Level,Nori,Chashu,B_egg,Spic,E_nori,E_egg,Bambs,E_cha,Num,UserID,Name
+20200529211534,0,20.0,credit,2020-05-29 21:15:34,Tonkosu,Soft,0,false,false,false,0,0,0,0,0,1,null,nullnull
+20200529211634,0,28.0,paypal,2020-05-29 21:16:34,Shio,Firm,2,false,true,true,5,0,1,1,1,1,10000001,ZWcong
+20200529212528,0,44.0,credit,2020-05-29 21:25:28,Shio,Medium,2,true,true,true,5,2,2,2,2,1,10000002,ZhuWcong
+20200529213057,0,50.0,paypal,2020-05-29 21:30:57,Tonkotsu,Medium,2,true,false,true,3,2,1,0,0,1,10000003,ZWeicong
+20200529213057,0,50.0,paypal,2020-05-29 21:30:57,Tonkosu,Soft,2,false,false,false,0,0,0,0,0,1,10000003,ZWeicong
+20200529214016,0,40.0,credit,2020-05-29 21:40:16,Shio,Soft,1,true,true,true,0,2,2,2,2,1,10000001,ZWcong
+20200529214134,1,28.0,credit,2020-05-29 21:41:34,Tonkosu,Medium,1,true,false,false,0,1,0,2,0,1,10000001,ZWcong
+20200529214206,0,20.0,paypal,2020-05-29 21:42:06,Tonkosu,Soft,0,false,false,false,0,0,0,0,0,1,10000004,ZhuWeicon
+20200529214612,0,30.0,paypal,2020-05-29 21:46:12,Shio,Soft,1,true,true,true,5,1,1,1,1,1,10000001,ZWcong
+20200529214654,1,20.0,credit,2020-05-29 21:46:54,Tonkosu,Firm,0,false,true,false,5,0,0,0,0,1,10000001,ZWcong
+20200529214704,2,30.0,paypal,2020-05-29 21:47:04,Tonkosu,Soft,0,true,true,true,5,1,1,1,1,1,10000001,ZWcong
+20200529214720,3,40.0,paypal,2020-05-29 21:47:20,Shio,Firm,2,true,true,true,5,2,2,2,2,1,10000001,ZWcong
+20200529214859,4,32.0,credit,2020-05-29 21:48:59,Shio,Soft,0,true,true,false,1,0,0,2,2,1,10000001,ZWcong
+20200529214912,5,30.0,paypal,2020-05-29 21:49:12,Shoyu,Medium,1,true,true,true,1,1,1,1,1,1,10000001,ZWcong
+20200529214925,6,40.0,paypal,2020-05-29 21:49:25,Tonkosu,Soft,0,false,false,false,0,0,0,0,0,1,10000001,ZWcong
+20200529214925,6,40.0,paypal,2020-05-29 21:49:25,Tonkosu,Soft,0,false,false,false,0,0,0,0,0,1,10000001,ZWcong
+20200529214932,7,105.0,stamps,2020-05-29 21:49:32,Shio,Soft,2,true,true,true,5,1,1,1,1,1,10000001,ZWcong
+20200529214932,7,105.0,stamps,2020-05-29 21:49:32,Tonkotsu,Medium,2,true,true,true,0,6,5,5,6,1,10000001,ZWcong
+20200529215210,0,20.0,paypal,2020-05-29 21:52:10,Tonkosu,Soft,0,false,false,false,0,0,0,0,0,1,10000005,ZhuWeic
+20200530030611,0,14.0,credit,2020-05-30 03:06:11,Shoyu,Firm,1,true,true,true,2,1,1,1,1,1,10000005,ZhuWeic
+20200530031103,0,27.0,credit,2020-05-30 03:11:03,Tonkosu,Soft,0,false,false,false,0,0,0,0,0,1,10000006,VincentLuo
+20200530031103,0,27.0,credit,2020-05-30 03:11:03,Tonkosu,Soft,0,false,false,false,0,0,0,0,0,1,10000006,VincentLuo
+20200530031103,0,27.0,credit,2020-05-30 03:11:03,Tonkosu,Soft,0,false,false,false,0,0,0,0,0,1,10000006,VincentLuo
+20200530031157,1,13.0,paypal,2020-05-30 03:11:57,Tonkosu,Soft,0,true,true,true,3,0,2,2,0,1,10000006,VincentLuo
+20200530031315,0,9.99,paypal,2020-05-30 03:13:15,Tonkosu,Soft,0,false,false,false,0,0,0,0,0,1,null,nullnull
