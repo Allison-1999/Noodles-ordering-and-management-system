@@ -34,7 +34,7 @@ You should make sure the directory structure is as followed.
 
 If you make a wrong structure, you can't run the program!!!!!
 
-If you have problem, please send email to wjj991019@bupt.edu.cn
+If you have problem, please send email to wjj991019@gmail.com
 
 STEP 3:
 Open the command line and go to the xxx\RamenGo\src dirctory
