@@ -16,7 +16,7 @@ If you can't download the javafx sdk at this website. You can download it from t
 Link：https://pan.baidu.com/s/1H8XDpIPSIRqjBiG2OBO1Ww 
 Code：ytni
 
-If you still have problem, please send email to wjj991019@bupt.edu.cn
+If you still have problem, please send email to wjj991019@gmail.com
 
 STEP 2(This is really important!):
 Unzip the file javafx-sdk-11.0.2.zip. Please choose "Unzip to javafx-sdk-11.0.2". 
